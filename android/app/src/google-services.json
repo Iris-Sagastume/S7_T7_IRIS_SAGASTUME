@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511450598492",
+    "project_id": "fir-flutter-codelab-ad560",
+    "storage_bucket": "fir-flutter-codelab-ad560.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511450598492:android:658b2f7c5ec2d3f8f4ea99",
+        "android_client_info": {
+          "package_name": "firebase.meetup.colb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkGzZLwb9A7a53l1fDQQCN2RMiglYj_Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
